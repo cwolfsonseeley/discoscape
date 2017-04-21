@@ -1,0 +1,19 @@
+Package: discoscape
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Caleb
+Maintainer: Caleb <cwolfsonseeley@berkeley.edu>
+Description: Uses a list of entity ids to export a csv file ready for use with
+    the DonorScape tool.
+License: 2017
+Encoding: UTF-8
+LazyData: true
+Imports:
+    discoveryengine,
+    listbuilder
+Suggests:
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+RoxygenNote: 5.0.1
