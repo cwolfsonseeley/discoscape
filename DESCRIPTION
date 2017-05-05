@@ -1,6 +1,6 @@
 Package: discoscape
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Output report in DonorScape format
 Version: 0.1.0
 Author: Caleb
 Maintainer: Caleb <cwolfsonseeley@berkeley.edu>
