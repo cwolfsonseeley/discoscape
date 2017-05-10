@@ -1,6 +1,6 @@
 #' Input a list of entity ids and output a csv file ready for use with the DonorScape tool
 #'
-#' @param ids A list of entity ids
+#' @param ids A discoveryengine definition
 #' @param include_deceased Should deceased individuals be included?
 #' @param household Should there be one line per household?
 #' @param file Where should output go?
